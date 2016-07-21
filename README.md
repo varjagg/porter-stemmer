@@ -1,4 +1,4 @@
-Porter Stemming algorithm implementation, © 2002 Steven M. Haflich 2002-2004
+Porter Stemming algorithm implementation, © Steven M. Haflich 2002-2004
 
 Public domain according to https://tartarus.org/martin/PorterStemmer/
 
